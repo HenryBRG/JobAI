@@ -19,11 +19,11 @@ Imagine um candidato que busca uma oportunidade de emprego, mas encontra dificul
 
 | Sprint | Tarefas |  User Story   | Item |  Tempo Estimado   | Status   | Dificuldade | 
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| 3 | 1 | Eu como empresa, quero uma interface limpa e fácil de ser utilizada para gerenciar as vagas. | Interface| 12h | :white_check_mark:| 7 |
-| 3 | 2 | Eu como candidato, quero poder utilizar filtros personalizados para refinar as sugestões de vagas. | Interface | 8h | :white_check_mark:| 8 |
-| 3 | 3 | Eu como candidato, quero poder acessar uma interface amigável para visualizar as vagas sugeridas. | Interface | 10h |:white_check_mark:| 7 |
-| 4 | 4 | Eu como candidato, desejo que a plataforma analise meu currículo e sugira vagas compatíveis com meu perfil. | Algoritmo de IA | 20h | :white_check_mark:| 9 |
-| 4 | 5 | Eu como empresa, quero poder encontrar candidatos com habilidades específicas de forma rápida. | Algoritmo de IA | 11h | :white_check_mark:| 7 |
+| 3 | 1 | Eu como empresa, quero uma interface limpa e fácil de ser utilizada para gerenciar as vagas. | Interface| 12h | ❌ | 7 |
+| 3 | 2 | Eu como candidato, quero poder utilizar filtros personalizados para refinar as sugestões de vagas. | Interface | 8h | ❌ | 8 |
+| 3 | 3 | Eu como candidato, quero poder acessar uma interface amigável para visualizar as vagas sugeridas. | Interface | 10h |❌ | 7 |
+| 4 | 4 | Eu como candidato, desejo que a plataforma analise meu currículo e sugira vagas compatíveis com meu perfil. | Algoritmo de IA | 20h | ❌ | 9 |
+| 4 | 5 | Eu como empresa, quero poder encontrar candidatos com habilidades específicas de forma rápida. | Algoritmo de IA | 11h | ❌ | 7 |
 
 </span>
 
