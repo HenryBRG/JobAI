@@ -19,7 +19,7 @@ Imagine um candidato que busca uma oportunidade de emprego, mas encontra dificul
 
 | Sprint | Tarefas |  User Story   | Item |  Tempo Estimado   | Status   | Dificuldade | 
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| 2 | 1 | Eu como cliente, desejo um protótipo navegável que demonstre o produto finalizado. | Protótipo | 15h | ❌ | 5 |
+| 2 | 1 | Eu como cliente, desejo um protótipo navegável que demonstre o produto finalizado. | Protótipo | 15h | :white_check_mark: | 5 |
 | 3 | 2 | Eu como usuário, quero poder me registrar e fazer login na plataforma para criar e acessar minha conta. | Cadastro e Login | 12h | ❌ | 5 |
 | 3 | 3 | Eu como empresa, quero uma interface limpa e fácil de ser utilizada para gerenciar as vagas. | Interface | 12h | ❌ | 7 |
 | 3 | 4 | Eu como candidato, quero poder utilizar filtros personalizados para refinar as sugestões de vagas. | Interface | 8h | ❌ | 8 |
