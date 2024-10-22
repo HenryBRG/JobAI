@@ -21,10 +21,10 @@ Imagine um candidato que busca uma oportunidade de emprego, mas encontra dificul
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | 2 | 1 | Eu como cliente, desejo um protótipo navegável que demonstre o produto finalizado. | Protótipo | 15h | :white_check_mark: | 5 |
 | 3 | 2 | Eu como usuário, quero poder me registrar e fazer login na plataforma para criar e acessar minha conta. | Cadastro e Login | 12h | ❌ | 5 |
-| 3 | 4 | Eu como candidato, quero poder utilizar filtros personalizados para refinar as sugestões de vagas. | Interface | 8h | ❌ | 8 |
-| 3 | 5 | Eu como candidato, quero poder acessar uma interface amigável para visualizar as vagas sugeridas. | Interface | 10h | ❌ | 7 |
-| 4 | 6 | Eu como candidato, desejo que a plataforma analise meu currículo e sugira vagas compatíveis com meu perfil. | Algoritmo de IA | 20h | ❌ | 9 |
-| 4 | 7 | Eu como empresa, quero poder encontrar candidatos com habilidades específicas de forma rápida. | Algoritmo de IA | 11h | ❌ | 7 |
+| 3 | 3 | Eu como candidato, quero poder utilizar filtros personalizados para refinar as sugestões de vagas. | Interface | 8h | ❌ | 8 |
+| 3 | 4 | Eu como candidato, quero poder acessar uma interface amigável para visualizar as vagas sugeridas. | Interface | 10h | ❌ | 7 |
+| 4 | 5 | Eu como candidato, desejo que a plataforma analise meu currículo e sugira vagas compatíveis com meu perfil. | Algoritmo de IA | 20h | ❌ | 9 |
+| 4 | 6 | Eu como empresa, quero poder encontrar candidatos com habilidades específicas de forma rápida. | Algoritmo de IA | 11h | ❌ | 7 |
 
 </span>
 
